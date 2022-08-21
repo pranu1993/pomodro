@@ -1,0 +1,13 @@
+{
+  "main.css": "/pomodro/static/css/main.1f5ea5a3.chunk.css",
+  "main.js": "/pomodro/static/js/main.e938858c.chunk.js",
+  "main.js.map": "/pomodro/static/js/main.e938858c.chunk.js.map",
+  "static/js/1.73d3c09f.chunk.js": "/pomodro/static/js/1.73d3c09f.chunk.js",
+  "static/js/1.73d3c09f.chunk.js.map": "/pomodro/static/js/1.73d3c09f.chunk.js.map",
+  "runtime~main.js": "/pomodro/static/js/runtime~main.cc483d10.js",
+  "runtime~main.js.map": "/pomodro/static/js/runtime~main.cc483d10.js.map",
+  "static/css/main.1f5ea5a3.chunk.css.map": "/pomodro/static/css/main.1f5ea5a3.chunk.css.map",
+  "index.html": "/pomodro/index.html",
+  "precache-manifest.d21dfaedc3849afff1182de667821a2a.js": "/pomodro/precache-manifest.d21dfaedc3849afff1182de667821a2a.js",
+  "service-worker.js": "/pomodro/service-worker.js"
+}
